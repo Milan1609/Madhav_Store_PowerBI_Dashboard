@@ -4,7 +4,7 @@
 
 🎉I'm thrilled to share my First Data Analysis report using Power BI!🎉
 
-I learned how to create an interactive dashboard in Power BI by analyzing Madhav Store Sales Data.
+I learned how to create an interactive dashboard in Power BI by analyzing Madhav Store Sales Data.    
 Here are the highlights of Madhav Store Sales Data:
 
 Objective: Track and analyse sales across India.In this "Report" , I used various visualization charts such as Donut, Stacked column charts, Bar charts and cards have been used in the dashboard to provide clarity about the data and take decisions accordingly.
