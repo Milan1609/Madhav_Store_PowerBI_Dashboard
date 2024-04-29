@@ -11,10 +11,10 @@ Objective: Track and analyse sales across India.In this "Report" , I used variou
 
 🔧Action:
 
-Data Cleaning: Cleaned the irrelevant and unused data.
-Data Processing: Transformed the data according to the needs in Power Query Editor.
-Data Visualization: Created interactive visuals in Power BI Dashboard using some DAX expressions and measures.
-📊Sales Performance Trends: Visualized Sales and Profit by each month.
-🗓️Top Selling Products: Identified top-selling subcategorical products.
-👫Top Customer by Sales & Top🗺️ states by Sales.
+Data Cleaning: Cleaned the irrelevant and unused data.      
+Data Processing: Transformed the data according to the needs in Power Query Editor.  
+Data Visualization: Created interactive visuals in Power BI Dashboard using some DAX expressions and measures.    
+📊Sales Performance Trends: Visualized Sales and Profit by each month.  
+🗓️Top Selling Products: Identified top-selling subcategorical products.   
+👫Top Customer by Sales & Top🗺️ states by Sales.   
 
