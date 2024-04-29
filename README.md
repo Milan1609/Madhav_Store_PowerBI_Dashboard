@@ -1,8 +1,8 @@
 # Madhav_Store_PowerBI_Dashboard
-My first PowerBi Project .
 
 
-🎉I'm thrilled to share my Data Analysis report using Power BI!🎉
+
+🎉I'm thrilled to share my First Data Analysis report using Power BI!🎉
 
 I learned how to create an interactive dashboard in Power BI by analyzing Madhav Store Sales Data.
 
